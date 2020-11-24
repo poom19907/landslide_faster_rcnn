@@ -4,3 +4,4 @@ loop_detect_box.m is for test dataset
 ImageSource_770.mat is the training img
 labeled_770.mat is the training img labels
 AccuracyCalculator.m is for calculating accuracy
+net50.mat in master branch is the resnet50 pretrained model
